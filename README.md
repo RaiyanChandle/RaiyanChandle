@@ -1,3 +1,4 @@
+![](developer.gif)
 # 💫 About Me:
 🔭 I’m currently working on<br>-->QR-based Library Management System <br>-->MERN School Management System<br>🤝 I’m looking to collaborate on<br>-->Anything related to WebSockets or MERN stack projects<br>💛 I’m looking for help with<br>-->Schema design (database + backend structuring)<br>🌱 I’m currently learning<br>-->Machine Learning & Next.js<br>💬 Ask me about<br>-->Exploratory Data Analysis (EDA)<br>⚡ Fun fact (Web Dev)<br>The first website ever made is still online - info.cern.ch (created in 1991).
 
