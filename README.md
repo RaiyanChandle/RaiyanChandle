@@ -21,14 +21,14 @@
 <td align="left">
 
 🔭 **I’m currently working on**
-<br>▸ QR-based Library Management System
-<br>▸ MERN School Management System
+<br>▸ HireHop ATS and job search using ai agents
+<br>▸ Agentic ai for coding   
 
 </td>
 <td align="left">
 
 🤝 **I’m looking to collaborate on**
-<br>▸ Anything related to WebSockets or MERN stack projects
+<br>▸ Anything related to Generative Ai, Agentic Ai and MERN.
 
 </td>
 </tr>
@@ -36,21 +36,20 @@
 <td align="left">
 
 💛 **I’m looking for help with**
-<br>▸ Schema design (database + backend structuring)
+<br>▸ UI/UX designing tools
 
 </td>
 <td align="left">
 
 🌱 **I’m currently learning**
-<br>▸ Machine Learning & Next.js
+<br>▸ Langchain and LangGraph with TS
+<br>▸ System Design
+
 
 </td>
 </tr>
 <tr>
 <td align="left">
-
-💬 **Ask me about**
-<br>▸ Exploratory Data Analysis (EDA)
 
 </td>
 <td align="left">
